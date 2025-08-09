@@ -1,0 +1,89 @@
+Sure! Here is an example of HTML and CSS code for a Service Bureau website with a purple and black color theme:
+
+HTML code:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Service Bureau</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Service Bureau</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2>Welcome to Service Bureau</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et felis nec justo ultricies ultricies.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2021 Service Bureau. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+```
+
+CSS code (styles.css):
+```css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+header {
+  background-color: #800080;
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav {
+  background-color: #800080;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background-color: #800080;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #800080;
+  text-align: center;
+  padding: 10px 0;
+}
+```
+
+This code will create a simple Service Bureau website with a purple and black color theme. Feel free to customize the content and styling to fit your needs!
